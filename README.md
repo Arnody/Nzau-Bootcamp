@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+
+<body>
+<h1>Nzau Bootcamp: Why We Are The Best</h1>
+<p>Do you want to strengthen your technical skills together with problem-solving skills and creativity? Do you want to switch over to technical career from a non-technical one? If your answer is “yes” to any or both of these, attending <b>Nzau Bootcamp</b> is your best bet.
+  <br>
+<image src="https://c0.wallpaperflare.com/preview/269/507/671/woman-developer-laptop-macbook-thumbnail.jpg"></image>
+  <br>
+  As technical skills are high in demand these days, boot campshave become one of the most sought after methods to obtain the additional skills required to cover the extra mile in your career. Over the last few years, boot camps have popped up all across the globe, which promise to consider non-tech candidates and transform them into tomorrow’s technical people, often in as little as a couple of weeks or months.</p>
+<h2> What Is Coding?</h2>
+<P><a rhef="https://www.computerscience.org/resources/what-is-coding-used-for/">Coding</a> refers to the intercommunication process for us to give instructions for a computer or program to process our requests. It is widely used in our daily life, from gadgets such as smartphones, tablets, smart TV and other smart home appliances, to automated cars and facilities like traffic lights, etc., it has been part of our lives.</P>
+<h2>Why Is Coding Important</h2>
+<p>Many people learn coding because of their career development, or simply because of their interests, but the benefits are much more than that. Steve Jobs once said, “Everybody should learn to program a computer, because it teaches you how to think.” When you know how to think, you open up endless possibilities to your work and life. Check out 10 reasons why we should learn to code below.</p>
+<ul>
+<li>Coding Develops Logical Thinking</li>
+<li>Coding Improves Problem Solving Skills</li>
+<li>Coding Fosters Creativity</li>
+<li>Coding Allows High Income Potential</li>
+<li>Coding Opens Up Job Opportunities</li>
+<li>Coding Helps You Work Smartly And Efficiently</li>
+<li>Coding Take Your Career to New Heights</li>
+<li>Coding Help You Understand How Technology Works</li>
+<li>Coding Help You Create Your Own App or Open Own Business</li>
+<li>Coding Empowers Your Life</li>
+
+</ul>
+<h2>Our Vision</h2>
+<p>Our vision is one that strives to connect our African people to the future they envision for themselves.  This is the goal in-front of us and it keeps us striving for more. Simply put…we will know we are succeeding when people working in tech in Africa have the same earning potential as their global counterparts possessing the same aptitude and mindset.</p>
+<h2>What You'll Learn</h2>
+<p>Here's a brief outline of what you'll cover throughout your learning phase.</p>
+<table border="4">
+  <tr>
+    <th>Month</th>
+    <th>Week 1</th>
+    <th>Week 2</th>
+    <th>Week 3</th>
+    <th>Week 4</th>
+  </tr>
+  <tr>
+    <td>1st Month</td>
+    <td>Git and Github</td>
+    <td>How the Web Works</td>
+    <td>CSS Basics</td>
+    <td>Responsive Design Principles</td>
+
+  </tr>
+  <tr>
+    <td>2nd Month</td>
+    <td>Javascript Fundamentals</td>
+    <td>Control Structures</td>
+    <td>Working With Arrays and Objects</td>
+    <td>Introduction to React</td>
+
+  </tr>
+  <tr>
+    <td>3rd Month</td>
+    <td>State Management in React: State, Events</td>
+    <td>React Router and Single Page Application Concepts</td>
+    <td>State Management with Redux or Context API</td>
+    <td>Middleware and Async Operations in Redux</td>
+
+  </tr>
+  <tr>
+    <td>4th Month</td>
+    <td>Introduction to Backend Development</td>
+    <td>Ruby Programming Fundamentals OOP, Metaprogramming</td>
+    <td>Introduction to Ruby on Rails</td>
+    <td>Creating Models, Views, and Controllers in Rails</td>
+
+  </tr>
+  <tr>
+    <td>5th Month</td>
+    <td>Working with Databases</td>
+    <td>Querying and Managing Data using ActiveRecord</td>
+    <td>Building APIs with Rails</td>
+    <td>Handling CRUD Operations in API</td>
+
+  </tr>
+  <tr>
+    <td>6th Month</td>
+    <td>User Authentication and Authorization</td>
+    <td>Advanced Rails Concepts: Middleware, Rake Tasks</td>
+    <td>Writing Tests for Rails Applications</td>
+    <td>Deployment Strategies for Frontend and Backend and hosting Platforms</td>
+
+  </tr>
+</table>
+<h2>Contact Us Today!</h2>
+<p>Do you have a question about our products? We would love to hear from you.Our Admissions team is always on standby to answer your Admission-related questions.Give us a call today at <u>0729992235</u> for more details.</p>
+
+</body>
+
+</html>
